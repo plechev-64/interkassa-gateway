@@ -1,0 +1,289 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Blank Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2016-01-20 12:50+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:43
+msgid "Interkassa"
+msgstr "Интеркасса"
+
+#: index.php:57
+msgid "Connection settings Interkassa"
+msgstr "Настройки соединения с Интеркассой"
+
+#: index.php:58
+msgid "Secret Key"
+msgstr "Секретный ключ"
+
+#: index.php:60
+msgid "Test Key"
+msgstr "Тестовый ключ"
+
+#: index.php:62
+msgid "The ID of the store"
+msgstr "Идентификатор магазина"
+
+#: index.php:64
+msgid "The status of the account Interkassa"
+msgstr "Статус аккаунта Интеркассы"
+
+#: index.php:68
+msgid "Work"
+msgstr "Рабочий"
+
+#: index.php:69
+msgid "Test"
+msgstr "Тестовый"
+
+#: index.php:85
+msgid "Top up personal account"
+msgstr "Пополнение личного счета"
+
+#: index.php:86
+msgid "Payment for the order on the website"
+msgstr "Оплата заказа"
+
+#: index.php:87
+msgid "Other payments"
+msgstr "Другие платежи"
+
+#: index.php:89
+msgid "Confirm the operation"
+msgstr "Подтвердить операцию"
+
+#: index.php:89
+msgid "Pay through payment system"
+msgstr "Оплата через платежную систему"
+
+#: index.php:166
+msgid "A record of the payment in the database was not found"
+msgstr "Запись о платеже в базе данных не найдена"
+
+#~ msgid "Withdrawal"
+#~ msgstr "Вывод средств"
+
+#~ msgid "Settings personal account"
+#~ msgstr "Настройки личного аккаунта"
+
+#~ msgid "Allow withdrawals?"
+#~ msgstr "Разрешить снятие?"
+
+#~ msgid "Not allowed"
+#~ msgstr "Не разрешать"
+
+#~ msgid "Allowed"
+#~ msgstr "Разрешить"
+
+#~ msgid "Payment system which permitted withdrawal"
+#~ msgstr "Платежная система которой разрешен вывод средств"
+
+#~ msgid ""
+#~ "Specify comma-separated names of payment systems which the user can "
+#~ "choose to withdraw funds"
+#~ msgstr ""
+#~ "Укажите через запятую названия платежных систем, которые пользователь "
+#~ "может выбрать для вывода средств"
+
+#~ msgid "The percentage of Commission for withdrawal of funds"
+#~ msgstr "Процент комиссии за вывод средств"
+
+#~ msgid "If nothing is specified, the withdrawal Commission is not charged"
+#~ msgstr "Если ничего не указано, то при выводе средств комиссия не взимается"
+
+#~ msgid "Bring personal account in the advanced tab"
+#~ msgstr "Вывод личного счета во вкладке дополнения"
+
+#~ msgid "No"
+#~ msgstr "Нет"
+
+#~ msgid "Yes"
+#~ msgstr "Да"
+
+#~ msgid "The transfer of funds"
+#~ msgstr "Перевод средств"
+
+#~ msgid "Transfer of funds between users"
+#~ msgstr "Перевод средств между пользователями"
+
+#~ msgid "Balance"
+#~ msgstr "Баланс"
+
+#~ msgid "Personal account of the user"
+#~ msgstr "Личный кабинет пользователя"
+
+#~ msgid "The withdrawal request"
+#~ msgstr "Запрос на получение денег"
+
+#~ msgid "Date of request"
+#~ msgstr "Дата запроса"
+
+#~ msgid "The amount of the request"
+#~ msgstr "Сумма запроса"
+
+#~ msgid "The Commission"
+#~ msgstr "Комиссия"
+
+#~ msgid "Withdrawal amount"
+#~ msgstr "Сумма вывода"
+
+#~ msgid "Comment"
+#~ msgstr "Комментарий"
+
+#~ msgid "Status"
+#~ msgstr "Статус"
+
+#~ msgid "Consideration"
+#~ msgstr "Рассмотрение"
+
+#~ msgid "cancel"
+#~ msgstr "отмена"
+
+#~ msgid "Payment system"
+#~ msgstr "Платежная система"
+
+#~ msgid "The number of purse"
+#~ msgstr "Номер кошелька"
+
+#~ msgid "Withdrawal amount (Commission for withdrawal %s)"
+#~ msgstr "Сумма на вывод (Комиссия при выводе %s)"
+
+#~ msgid "Send enquiry"
+#~ msgstr "Отправить запрос"
+
+#~ msgid "The history of balance changes"
+#~ msgstr "История изменения баланса"
+
+#~ msgid "The account balance"
+#~ msgstr "Остаток на счете"
+
+#~ msgid "Parish"
+#~ msgstr "Приход"
+
+#~ msgid "Consumption"
+#~ msgstr "Расход"
+
+#~ msgid "Date"
+#~ msgstr "Дата"
+
+#~ msgid "You haven`t had the movements of funds on the personal account"
+#~ msgstr "У вас не было движений средств на лицевом счете"
+
+#~ msgid "Make transfer"
+#~ msgstr "Сделать перевод"
+
+#~ msgid "Sum"
+#~ msgstr "Сумма"
+
+#~ msgid "ОК"
+#~ msgstr "ОК"
+
+#~ msgid "The transfer of funds to the user"
+#~ msgstr "Перевод средств пользователю"
+
+#~ msgid "The funds coming from the user"
+#~ msgstr "Денежные средства, поступающие от пользователя"
+
+#~ msgid "Money transfer"
+#~ msgstr "Денежный перевод"
+
+#~ msgid "The funds were successfully transferred to the account of that user"
+#~ msgstr "Средства были успешно перечислены на счет этого пользователя"
+
+#~ msgid "The withdrawal request is well formed"
+#~ msgstr "Запрос на снятие денег сформирован"
+
+#~ msgid "Processing"
+#~ msgstr "Обработка"
+
+#~ msgid "The withdrawal request was cancelled"
+#~ msgstr "Запрос на вывод средств был отменен"
+
+#~ msgid "For a withdrawal to"
+#~ msgstr "Для вывода средств на счет"
+
+#~ msgid "The request for withdrawal is made"
+#~ msgstr "Запрос на вывод сделан"
+
+#~ msgid "Management of withdrawal requests"
+#~ msgstr "Управление запросами на снятие"
+
+#~ msgid "Action"
+#~ msgstr "Действие"
+
+#~ msgid "Delete"
+#~ msgstr "Удалить"
+
+#~ msgid "Apply"
+#~ msgstr "Применить"
+
+#~ msgid "User"
+#~ msgstr "Пользователь"
+
+#~ msgid "Amount request"
+#~ msgstr "Сумма запроса"
+
+#~ msgid "Made"
+#~ msgstr "Произведен"
+
+#~ msgid "To balance user"
+#~ msgstr "К балансу пользователя"
+
+#~ msgid "Reject"
+#~ msgstr "Отклонить"
+
+#~ msgid "Approve"
+#~ msgstr "Одобрить"
+
+#~ msgid "At the moment, the query is no"
+#~ msgstr "На данный момент запросов нет"
+
+#~ msgid "History"
+#~ msgstr "История"
+
+#~ msgid "Specify the amount of transfer!"
+#~ msgstr "Укажите сумму перевода!"
+
+#~ msgid "Are you sure?"
+#~ msgstr "Вы уверены?"
+
+#~ msgid "Your account has insufficient funds!"
+#~ msgstr "На Вашем счете недостаточно средств!"
+
+#~ msgid "Specify the number of purse!"
+#~ msgstr "Укажите номер кошелька!"
+
+#~ msgid "Settings background"
+#~ msgstr "Настройки фона"
+
+#~ msgid "Background private account"
+#~ msgstr "Фон личного кабинета"
+
+#~ msgid "Profile field for background"
+#~ msgstr "Поле профиля для фона"
+
+#~ msgid ""
+#~ "Specify the type of profile field \"File\" to through it could set the "
+#~ "background image for your personal account"
+#~ msgstr ""
+#~ "Выберите поле профиля типа \"Файл\" и укажите его для установки фонового "
+#~ "изображения в личном кабинете"
